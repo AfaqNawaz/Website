@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+.main .image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main .para{
+    font-family: sans-serif;
+    text-align: left;
+}
+.main .heading{
+    text-align: center;
+}
